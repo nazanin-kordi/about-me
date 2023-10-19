@@ -1,2 +1,2 @@
 # about-me
-This repository in a C.V in brief.
+This repository is my C.V in brief.
